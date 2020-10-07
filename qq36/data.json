@@ -1,0 +1,106 @@
+{
+  "intros": [
+    [
+      "<section class=\"intro-title\">",
+        "<h1 class=\"intro-h1\">",
+          "<span class=\"intro-title-xl\">36</span> Questions</h1>",
+        "<h2 class=\"intro-h2\">things I'd like to know</h2>",
+      "</section>",
+
+      "<p class=\"intro-p\">",
+        "Let's play a game of questions! Find a space, grab some",
+        "wine with someone interesting you'd like to get to know.",
+        "Make yourselves comfortable &amp; let's get started",
+      "</p>",
+
+      "<button class=\"intro-action\">Click here to start</button>"
+    ],
+    [
+      "<p class=\"intro-p\">",
+        "<strong>Quick instructions:</strong> read one",
+        "question aloud, then both partners answer. Swap roles for the",
+        "next question.",
+        "<em>The full experience should take around one hour, but time isn't important…</em>",
+      "</p>",
+
+      "<button class=\"intro-action short\">Okay</button>"
+    ]
+  ],
+  "endings": [
+    [
+      "<section class=\"intro-title\">",
+        "<h1 class=\"intro-h1\">",
+          "Congratulations, you've answered all the questions! Now for the hard part.",
+        "</h1>",
+      "</section>",
+
+      "<p class=\"intro-p\">",
+        "To finish, look into your partner's eyes for four minutes.",
+        "In silence. It's hard, and you'll squirm, but you'll learn an incredible amount.",
+        "Good luck...",
+      "</p>"
+    ]
+  ],
+  "questions36": [
+    "Given the choice of anyone in the world, whom would you want as a dinner guest?",
+    "Would you like to be famous? In what way?",
+    "Before making a telephone call, do you ever rehearse what you are going to say? Why?",
+    "What would constitute a “perfect” day for you?",
+    "When did you last sing to yourself? To someone else?",
+    "If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?",
+    "Do you have a secret hunch about how you will die?",
+    "Name three things you and your partner appear to have in common.",
+    "For what in your life do you feel most grateful?",
+    "If you could change anything about the way you were raised, what would it be?",
+    "Take four minutes and tell your partner your life story in as much detail as possible.",
+    "If you could wake up tomorrow having gained any one quality or ability, what would it be?",
+
+    "If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?",
+    "Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?",
+    "What is the greatest accomplishment of your life?",
+    "What do you value most in a friendship?",
+    "What is your most treasured memory?",
+    "What is your most terrible memory?",
+    "If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?",
+    "What does friendship mean to you?",
+    "What roles do love and affection play in your life?",
+    "Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.",
+    "How close and warm is your family? Do you feel your childhood was happier than most other people’s?",
+    "How do you feel about your relationship with your mother?",
+
+    "Make three true “we” statements each. For instance, “We are both in this room feeling ...”",
+    "Complete this sentence: “I wish I had someone with whom I could share ... ”",
+    "If you were going to become a close friend with your partner, please share what would be important for him or her to know.",
+    "Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.",
+    "Share with your partner an embarrassing moment in your life.",
+    "When did you last cry in front of another person? By yourself?",
+    "Tell your partner something that you like about them already.",
+    "What, if anything, is too serious to be joked about?",
+    "If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?",
+    "Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?",
+    "Of all the people in your family, whose death would you find most disturbing? Why?",
+    "Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen."
+  ],
+  "questions20": [
+    "Besides to your God, your family and your country and your constituents (if any), where do your loyalties lie?",
+    "In as much precise detail as you see fit, how does your mind work?",
+    "Have you ever been in love? If so, describe the experience.",
+    "If you were an animal, what animal would you be ~ other than human?",
+    "Define \"generosity\".",
+    "What did your father fail at?",
+    "Except for \"nothing,\" what or whom do you hate?",
+    "In deadly peril, name three people you want in your foxhole with you?",
+    "Have you ever dealt a death penalty? If yes,please explain.",
+    "Describe your ability to dance.",
+    "What do you think your worst enemy really thinks about you?",
+    "On a scale of 0 to 250, where would you score your intelligence?",
+    "In eight words or less, please define intelligence.",
+    "What is the greatest weakness in your character?",
+    "How do you verify the truth of what you are told?",
+    "Name and define your favorite word.",
+    "Of the following, which gives you the most pleasure: a) Music; b) Money; c) Literature; d) Science; e) Spirituality; f) Golf; g) Food & Wine; h) Films.",
+    "Briefly describe your favorite hat.",
+    "Who is the best living lawyer that you know?",
+    "If you were made to live out the rest of your days as a famous fictional or non-fictional character, who would you select?"
+  ]
+}
